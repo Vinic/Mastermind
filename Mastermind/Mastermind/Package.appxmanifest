@@ -7,11 +7,11 @@
   IgnorableNamespaces="uap mp">
 
   <Identity
-    Name="81bd31f8-6e0d-482e-8cb9-83d4fb6be0b1"
+    Name="1d6163e8-fd9b-47a6-96e5-ef17cc0dbc9f"
     Publisher="CN=Rick"
     Version="1.0.0.0" />
 
-  <mp:PhoneIdentity PhoneProductId="81bd31f8-6e0d-482e-8cb9-83d4fb6be0b1" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
+  <mp:PhoneIdentity PhoneProductId="1d6163e8-fd9b-47a6-96e5-ef17cc0dbc9f" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
   <Properties>
     <DisplayName>Mastermind</DisplayName>
